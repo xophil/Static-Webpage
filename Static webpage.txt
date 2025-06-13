@@ -3,3 +3,5 @@ I am learning HTML and CSS from its basics, completing projects
 I am starting with a static website copy of "https://cs.fyi/".
 
 I have almost completed the static page for index.html
+
+I have completed this project ✅
